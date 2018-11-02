@@ -2,7 +2,7 @@ File3
 =============================
 Line1
 Line2
-Line3- Person 3 Changed this
+Line3
 Line4
 Line5
 Line6
