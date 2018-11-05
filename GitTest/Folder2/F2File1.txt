@@ -3,7 +3,7 @@ Folder2 => File1
 Line1
 Line2
 Line3
-Line4-Feature2 changed this
+Line4-Feature 3 changed this
 Line5
 Line6-Feature1 Changed
 Line7
